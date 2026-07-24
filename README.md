@@ -54,3 +54,11 @@ The dataset is fetched automatically at runtime via `sklearn.datasets.fetch_cali
 - scipy.stats (Pearson/Spearman correlation, normality tests, one-way ANOVA, Levene's test, Shapiro-Wilk)
 - scikit-learn (dataset loader)
 - matplotlib / seaborn (visualization)
+
+## Author
+
+Chau N. N. Nguyen, MS, MA
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
