@@ -40,8 +40,8 @@ This project explores the relationship between household room count and median h
 ## Getting Started
 
 ```bash
-git clone https://github.com/Cnnguy12/SDS550.git
-cd SDS550
+git clone https://github.com/Cnnguy12/california-housing-analysis-ah.git
+cd california-housing-analysis-ah
 pip install -r requirements.txt
 jupyter notebook SDS550-CaliforniaHousing.ipynb
 ```
