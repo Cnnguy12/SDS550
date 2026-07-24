@@ -1,6 +1,6 @@
 # California Housing Dataset Analysis
 
-Exploratory and inferential statistical analysis of the [California Housing dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset), completed for SDS 550.
+Exploratory and inferential statistical analysis of the [California Housing dataset](https://scikit-learn.org/stable/datasets/real_world.html#california-housing-dataset).
 
 **Selected Variable:** `AveRooms` (average number of rooms per household)
 **Target Variable:** `MedHouseVal` (median house value)
