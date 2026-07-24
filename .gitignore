@@ -1,0 +1,29 @@
+# Jupyter
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Personal/unrelated data - not part of this project
+Takeout/
+*.mbox
+
+# Other course assignments kept locally but not part of this repo
+ASSIGNMENT_RESPONSE.md
+ASSIGNMENT_RESPONSE_FINAL.md
+DETAILED_INTERPRETATIONS.md
+SDS550_Email Analysis.ipynb
+email_analysis.ipynb
+email_analysis_executed.ipynb
+run_email_analysis.py
+email_*.png
+top_correspondents.png
+recipient_timing_heatmap.png
+*_Facebook_*.jpg
+*_Twitter_*.jpg
+SDS550-CaliforniaHousing (all graphics).ipynb
